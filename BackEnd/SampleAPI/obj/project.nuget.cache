@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mFB3KHHh+U3M40NwUfaF2tjRMjxMY6+WAZWS+nCeEnpdaG0WTDF0wqA8iFyfcwWRFIDm9QHDzKbQN2Pkv7gPhg==",
+  "dgSpecHash": "pAFa6tMQaA93mQgI66i5EKHtt9RvFpFR8nrIN1NsvTc+Rn2yIj4VV1gwsXkzht65hEicbtnEHC4Te/qsynMQJg==",
   "success": true,
   "projectFilePath": "C:\\GIT\\DockerSample\\BackEnd\\SampleAPI\\SampleAPI.csproj",
   "expectedPackageFiles": [],
